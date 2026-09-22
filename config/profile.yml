@@ -1,0 +1,68 @@
+# Career-Ops Profile Configuration
+# Single source of truth for personal data across all modes.
+
+candidate:
+  full_name: "Nathan Myers"
+  email: "nathanemyers@proton.me"
+  phone: "(812) 391-1530"
+  location: "Chicago, IL"
+  linkedin: "linkedin.com/in/nathan-myers-173a9719"
+  github: "github.com/nathanemyers"
+
+target_roles:
+  primary:
+    - "Senior Frontend Engineer"
+    - "Staff Frontend Engineer"
+    - "Senior Full-Stack Engineer"
+
+  archetypes:
+    - name: "Senior/Staff Frontend Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+    - name: "Senior Full-Stack Engineer"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Engineering Manager / Team Lead (growth track)"
+      level: "IC-to-management transition, no direct management experience yet"
+      fit: "secondary"
+
+narrative:
+  headline: "Architecture-focused frontend/full-stack engineer"
+  exit_story: "Nearly eight years at SteelSeries shipping Electron apps, high quality customer facing products, and working at all levels of the stack. I am now looking for positions that will allow me to make delightful interfaces and to solve architecturally difficult problems. I am a quick learner and have a curious mind."
+  superpowers:
+    - "Architecture for large, ambiguous problems (Electron apps, sandbox harnesses, shared internal libraries)"
+    - "Documentation-forward engineering — designs for the next person encountering the system fresh"
+    - "Cross-team tool building after learning another department's actual pain points"
+    - "Enjoys getting to know my coworkers"
+    - "Wants to come into the office"
+    - "Enjoys Mentorship via PR review and pairing — actively interested in growing into a people-management role, despite no formal management experience yet"
+    - "Full-stack range: frontend (React/Redux/Electron) through backend (NodeJS/GraphQL)"
+
+
+compensation:
+  target_range: "$131K+"
+  currency: "USD"
+  minimum: "$110K"
+  location_flexibility: "Chicago, local only, Chicago Loop"
+
+location:
+  country: "United States"
+  city: "Chicago"
+  timezone: "America/Chicago"
+  visa_status: "No sponsorship needed"
+  authorized_in: ["United States"]
+  needs_sponsorship: false
+
+company_preferences:
+  headcount:
+    ideal_min: 50
+    ideal_max: 200
+    outside_ideal_range: "slight preference for larger over smaller"
+
+language:
+  output: en
+
+spend_tier: economy
+
+cv:
+  output_format: "html"
