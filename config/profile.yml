@@ -14,6 +14,7 @@ target_roles:
     - "Senior Frontend Engineer"
     - "Staff Frontend Engineer"
     - "Senior Full-Stack Engineer"
+    - "Automation Engineer"
 
   archetypes:
     - name: "Senior/Staff Frontend Engineer"
@@ -24,6 +25,9 @@ target_roles:
       fit: "secondary"
     - name: "Engineering Manager / Team Lead (growth track)"
       level: "IC-to-management transition, no direct management experience yet"
+      fit: "secondary"
+    - name: "Automation Engineer"
+      level: "Senior"
       fit: "secondary"
 
 narrative:

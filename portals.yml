@@ -1353,12 +1353,10 @@ search_queries:
 #     provider: lever
 #     aggregator: true
 
-tracked_companies: []
-# Intentionally empty (2026-09-21): all single-employer tracked_companies
-# entries were removed by user request. Scanning now relies entirely on
-# job_boards (multi-employer aggregators) and search_queries (WebSearch).
-# See the schema docs above (company_aliases, aggregator: true) if you want
-# to add individual companies back later.
+# tracked_companies moved to the end of this file (2026-09-23): re-added via
+# `/career-ops discover` from LinkedIn-connection companies after being emptied
+# on 2026-09-21. See the block after job_boards/search_queries for the current
+# entries.
 
 # ── Job Boards ────────────────────────────────────────────────────────
 # Multi-employer aggregators. Unlike tracked_companies (one entry = one employer),
@@ -1625,3 +1623,63 @@ job_boards:
   # - name: CryptocurrencyJobs             # curated Web3/crypto board (RSS, all-remote)
   #   provider: cryptocurrencyjobs
   #   enabled: true
+
+tracked_companies:
+  - name: ActiveCampaign
+    careers_url: https://jobs.lever.co/activecampaign
+    enabled: true
+
+  - name: Affirm
+    careers_url: https://job-boards.greenhouse.io/affirm
+    api: https://boards-api.greenhouse.io/v1/boards/affirm/jobs
+    enabled: true
+
+  - name: Asana
+    careers_url: https://job-boards.greenhouse.io/asana
+    api: https://boards-api.greenhouse.io/v1/boards/asana/jobs
+    enabled: true
+
+  - name: Attentive
+    careers_url: https://job-boards.greenhouse.io/attentive
+    api: https://boards-api.greenhouse.io/v1/boards/attentive/jobs
+    enabled: true
+
+  - name: Bankrate
+    careers_url: https://job-boards.greenhouse.io/bankrate
+    api: https://boards-api.greenhouse.io/v1/boards/bankrate/jobs
+    enabled: true
+
+  - name: Betterment
+    careers_url: https://job-boards.greenhouse.io/betterment
+    api: https://boards-api.greenhouse.io/v1/boards/betterment/jobs
+    enabled: true
+
+  - name: CarGurus
+    careers_url: https://job-boards.greenhouse.io/cargurus
+    api: https://boards-api.greenhouse.io/v1/boards/cargurus/jobs
+    enabled: true
+
+  - name: Docebo
+    careers_url: https://jobs.ashbyhq.com/docebo
+    enabled: true
+
+  - name: Fin
+    careers_url: https://jobs.ashbyhq.com/fin
+    enabled: true
+
+  - name: Headway
+    careers_url: https://jobs.ashbyhq.com/headway
+    enabled: true
+
+  - name: RapidSOS
+    careers_url: https://job-boards.greenhouse.io/rapidsos
+    api: https://boards-api.greenhouse.io/v1/boards/rapidsos/jobs
+    enabled: true
+
+  - name: WeTravel
+    careers_url: https://jobs.ashbyhq.com/wetravel
+    enabled: true
+
+  - name: Wpromote
+    careers_url: https://jobs.lever.co/wpromote
+    enabled: true

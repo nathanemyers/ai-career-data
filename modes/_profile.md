@@ -11,6 +11,7 @@
 | **Senior/Staff Frontend Engineer** | React, Electron, component libraries, architecture | Someone who ships and owns large architectural features end to end |
 | **Senior Full-Stack Engineer** | NodeJS, GraphQL, Python backends + React frontends | Someone comfortable across the whole stack, not just UI |
 | **Engineering Manager / Team Lead (growth track)** | Mentorship, PR review, pairing, cross-team collaboration, IC-to-EM growth path | A strong senior IC who wants a track toward people leadership — not a candidate claiming existing management experience |
+| **Automation Engineer** | CI/CD pipelines, build/release automation, internal tooling that removes manual toil | Someone who has repeatedly found repetitive manual work and replaced it with a reliable automated system |
 
 **Framework note:** Frontend expertise is React-specific. A role whose primary/only stated frontend framework is Vue or Angular should be scored slightly lower on CV-match (soft downrank, not a disqualifier) than an equivalent React role — deep hands-on depth is in React, not Vue/Angular. A role mixing React with Vue/Angular, or where frontend is a minor component of a broader full-stack/backend role, is unaffected.
 
@@ -21,6 +22,7 @@
 | Senior/Staff Frontend | Electron app + sandbox harness architecture, internal UI component library, shared NPM libraries at SteelSeries | cv.md (SteelSeries) |
 | Full-Stack | NodeJS/GraphQL/AWS Lambda work at Placester, Python/Django prototyping at Fulton Works, Java/Spring at Cerner | cv.md (Placester, Fulton Works, Cerner) |
 | Engineering Manager / Team Lead / roles with a growth path | Mentorship via PR review and pairing at SteelSeries, cross-team tool building, documentation-forward habits — framed as evidence of leadership instinct and readiness to grow, never as prior management experience | cv.md (SteelSeries mentorship, cross-team tooling) |
+| Automation Engineer | TD Ameritrade deploy-automation (cut deployment time from 8 hours of dedicated engineer time to 15 minutes of QA time, via Python/Fabric/Jenkins); Azure build automation pipelines configured at SteelSeries; cross-team tooling built at SteelSeries after learning other departments' pain points | cv.md (TD Ameritrade, SteelSeries) |
 
 ## Your Exit Narrative
 

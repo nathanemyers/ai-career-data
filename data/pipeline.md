@@ -4,17 +4,153 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
 
-- [ ] https://www.builtinchicago.org/job/frontend-developer-fiori-ui5/9751172 | Pontoon Global Solutions | Frontend Developer(Fiori+UI5) | Remote · United States | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/senior-full-stack-software-engineer/11308341 | Aligned | Senior Full Stack Software Engineer | Remote · USA | 160000-200000 | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/senior-software-engineer-product-hybrid/11305973 | Enova | Senior Software Engineer - Product (Hybrid) | Hybrid · Chicago, IL, USA | 98000-140000 | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/sr-associate-software-engineer-ai-security/11306603 | Northern Trust | Sr Associate Software Engineer, AI Security | Hybrid · Chicago, IL, USA | 89000-151000 | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/software-engineer-platform-evanston-il-usa/9161876 | Speechify | Software Engineer, Platform - Evanston, IL, USA | Evanston, IL, USA | 140000-200000 | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/software-engineer-platform-chicago-il-usa/9161865 | Speechify | Software Engineer, Platform - Chicago, IL, USA | Chicago, IL, USA | 140000-200000 | posted: 2026-09-22
+- [ ] https://jobs.ashbyhq.com/fin/46d733e1-d8e8-4b28-b5f0-f8cde1dcbcc1 | Fin | Senior Backend Software Engineer | New York, NY · Remote · New York · United States | posted: 2025-12-03
+- [ ] https://job-boards.greenhouse.io/attentive/jobs/4120599009 | Attentive | Senior Software Engineer, Streaming | United States | posted: 2026-02-12
+- [ ] https://job-boards.greenhouse.io/attentive/jobs/4369486009 | Attentive | Staff Software Engineer, Shopper Data Platform | United States | posted: 2026-08-14
+- [ ] https://jobs.ashbyhq.com/headway/e78703a3-4089-40fa-8a17-4afb811d3855 | Headway | Senior Backend Software Engineer | New York, NY · San Francisco, CA · San Francisco · United States · Seattle, WA · Seattle · Remote | posted: 2024-09-16
+- [ ] https://jobs.ashbyhq.com/headway/d123a2aa-7c3c-4833-bfc2-4d3356db1041 | Headway | Staff Software Engineer (Journeys) | Remote · San Francisco, CA · San Francisco · United States · Seattle, WA · Seattle · New York City · New York | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/headway/8bc00fec-bfc7-47ff-bef4-2d71776a56cb | Headway | Senior Engineering Manager (Ranking & Relevance) | Remote · San Francisco, CA · San Francisco · United States · Seattle, WA · Seattle · New York City · New York | posted: 2026-09-08
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7918497003 | Affirm | Manager, Software Engineering (App Experiences) | Remote US | posted: 2026-08-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7671388003 | Affirm | Senior CIAM Software Engineer | Remote US | posted: 2026-04-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7812982003 | Affirm | Senior Software Engineer, Affirm Bank | Remote US | posted: 2026-07-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7785812003 | Affirm | Senior Software Engineer, Backend (Batch Infrastructure) | Remote US | posted: 2026-08-05
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7980264003 | Affirm | Senior Software Engineer, Backend (Card Ledger & Money Movement) | Remote US | posted: 2026-09-01
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7799631003 | Affirm | Senior Software Engineer, Backend (Lake Analytics Platform) | Remote US | posted: 2026-07-10
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7906337003 | Affirm | Senior Software Engineer, Backend (Loan Origination and Reporting) | Remote US | posted: 2026-09-11
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7727320003 | Affirm | Software Engineer II, Backend (Test Infra) | Remote US | posted: 2026-07-10
+- [ ] https://www.builtinchicago.org/job/freelance-senior-frontend-software-engineer/11319510 | Left Field Labs | Freelance Senior Frontend Software Engineer | Remote · United States | posted: 2026-09-22
+- [ ] https://www.builtinchicago.org/job/software-engineer-lead/11324758 | PNC Bank | Software Engineer Lead | Remote or Hybrid · USA | posted: 2026-09-23
+- [ ] https://www.builtinchicago.org/job/lead-software-engineer-reference-data-engineering/11318237 | JPMorganChase | Lead Software Engineer - Reference Data Engineering | Hybrid · Chicago, IL, USA | posted: 2026-09-22
+- [ ] https://www.builtinchicago.org/job/principal-software-engineer/11309340 | iManage | Principal Software Engineer | Hybrid · Chicago, IL, USA | 150000-200000 | posted: 2026-09-22
+- [ ] https://www.builtinchicago.org/job/software-engineer-production-platform/11320698 | Aquatic Capital Management | Software Engineer, Production Platform | In-Office · Chicago, IL, USA | 150000-300000 | posted: 2026-09-22
 
 ## Processed
+- [x] #013 | https://www.builtinchicago.org/job/frontend-developer-fiori-ui5/9751172 | Pontoon Global Solutions | Frontend Developer(Fiori+UI5) | 1.2/5 | PDF ❌
+- [x] #014 | https://www.builtinchicago.org/job/senior-full-stack-software-engineer/11308341 | Aligned | Senior Full Stack Software Engineer | 3.5/5 | PDF ✅
+- [x] #015 | https://www.builtinchicago.org/job/senior-software-engineer-product-hybrid/11305973 | Enova | Senior Software Engineer - Product (Hybrid) | 4.2/5 | PDF ✅
+- [x] #016 | https://www.builtinchicago.org/job/sr-associate-software-engineer-ai-security/11306603 | Northern Trust | Sr Associate Software Engineer, AI Security | 3.2/5 | PDF ✅
+- [x] #017 | https://www.builtinchicago.org/job/software-engineer-platform-evanston-il-usa/9161876 | Speechify | Software Engineer, Platform - Evanston, IL, USA | 3.9/5 | PDF ✅
+- [x] #018 | https://www.builtinchicago.org/job/software-engineer-platform-chicago-il-usa/9161865 | Speechify | Software Engineer, Platform - Chicago, IL, USA | 3.9/5 | PDF ✅
 - [x] #008 | https://www.builtinchicago.org/job/fullstack-software-engineer-ii-admin-ux-platform-applications/11292929 | Elastic | Fullstack Software Engineer II - Admin UX - Platform Applications | 4.1/5 | PDF ✅
 - [x] #009 | https://www.builtinchicago.org/job/staff-engineer-query-optimization/10581195 | MongoDB | Senior Software Engineer, Query Optimization | 1.6/5 | PDF ❌
 - [x] #010 | https://startup.jobs/senior-software-engineer-finix-10109382 | Finix | Senior Software Engineer | 4.0/5 | PDF ✅
 - [x] #011 | https://startup.jobs/sr-software-engineer-affordable-housing-open-roles-appfolio-10097488 | AppFolio | Sr. Software Engineer - Affordable Housing | 3.8/5 | PDF ✅
 - [x] #012 | https://startup.jobs/senior-full-stack-software-engineer-fictiv-2-9562935 | Fictiv | Senior Full Stack Software Engineer | 3.5/5 | PDF ✅
 - [x] ~~https://careers.allianz.com/global/en/job/106365/Sales-Agent-West-Region | Allianz | Sales Agent - West Region~~ — posting expired (liveness sweep)
+- [x] #-- | http://bankrate.com/careers/current-openings?gh_jid=8076731 | skipped (triage FAIL 1.5/5: Marketing/growth leadership role, not engineering — archetype mismatch despite AI title, no frontend/full-stack work)
+- [x] #-- | http://bankrate.com/careers/current-openings?gh_jid=8116184 | skipped (triage FAIL 2.0/5: Hard DQ: AI-native product-builder role, hands-on prototyping with AI/APIs — archetype mismatch, not target work)
+- [x] #-- | https://www.betterment.com/careers/current-openings/job?gh_jid=8201993&gh_jid=8201993 | skipped (triage FAIL 2.0/5: Hard DQ: NYC hybrid 4d/wk in-office, no remote; Java-only backend also downranks fit)
+- [x] #-- | https://www.betterment.com/careers/current-openings/job?gh_jid=8212276&gh_jid=8212276 | skipped (triage FAIL 2.2/5: Hard DQ: NYC hybrid Mon-Thu, relocate within 90 days, no remote despite full-stack fit)
+- [x] #-- | https://www.betterment.com/careers/current-openings/job?gh_jid=7821707&gh_jid=7821707 | skipped (triage FAIL 1.5/5: Hard DQ: NYC hybrid required + AI-platform-primary role (LLM systems) — archetype mismatch too)
+- [x] #-- | https://www.betterment.com/careers/current-openings/job?gh_jid=8139698&gh_jid=8139698 | skipped (triage FAIL 1.5/5: Hard DQ: NYC hybrid required; also a TPM role, not hands-on engineering — archetype mismatch)
+- [x] #-- | https://www.betterment.com/careers/current-openings/job?gh_jid=7391580&gh_jid=7391580 | skipped (triage FAIL 2.0/5: Hard DQ: NYC hybrid 4d/wk in-office, no remote; Java-only backend, no frontend)
+- [x] #-- | https://www.betterment.com/careers/current-openings/job?gh_jid=7798083&gh_jid=7798083 | skipped (triage FAIL 2.3/5: Hard DQ: NYC hybrid 4d/wk required, no remote; otherwise strong React/GraphQL archetype fit)
+- [x] #-- | https://job-boards.greenhouse.io/attentive/jobs/4410440009 | skipped (triage FAIL 1.5/5: Hard DQ: primary ML engineering role (Python/TensorFlow/PyTorch); NY on-site, no stated remote)
+- [x] #-- | https://job-boards.greenhouse.io/attentive/jobs/4355309009 | skipped (triage FAIL 1.8/5: Hard DQ: SF hybrid Tue-Thu required, no remote; also backend-only Java/Python/Go)
+- [x] #-- | https://job-boards.greenhouse.io/attentive/jobs/4227854009 | skipped (triage FAIL 2.0/5: Hard DQ: NYC hybrid Tue-Thu required, no remote; otherwise decent full-stack option available)
+- [x] #-- | https://job-boards.greenhouse.io/attentive/jobs/4413218009 | skipped (triage FAIL 1.5/5: Hard DQ: primary ML engineering role (Python/TensorFlow/PyTorch); NY office-based, no remote)
+- [x] #-- | https://job-boards.greenhouse.io/attentive/jobs/4301174009 | skipped (triage FAIL 2.0/5: Hard DQ: NYC hybrid Tue-Thu required, no remote; backend Java/TS focus)
+- [x] #-- | https://job-boards.greenhouse.io/rapidsos/jobs/5238049007 | skipped (triage FAIL 1.8/5: Hard DQ: hands-on AI/LLM application development required — archetype mismatch; EU remote)
+- [x] #-- | https://careers.cargurus.com/us/en/job/7622090?gh_jid=7622090 | skipped (triage SKIP 0/5: Posting confirmed filled — no longer available)
+- [x] #-- | https://careers.cargurus.com/us/en/job/8060343?gh_jid=8060343 | skipped (triage SKIP 0/5: Posting confirmed filled — no longer available)
+- [x] #-- | https://careers.cargurus.com/us/en/job/8141532?gh_jid=8141532 | skipped (triage SKIP 0/5: Posting confirmed filled — no longer available)
+- [x] #-- | https://careers.cargurus.com/us/en/job/8130684?gh_jid=8130684 | skipped (triage SKIP 0/5: Posting confirmed filled — no longer available)
+- [x] #-- | https://jobs.ashbyhq.com/headway/e95da85a-a6c5-4532-8326-723ddb40d658 | skipped (triage FAIL 1.5/5: Hard DQ: primary work is ML/LLM systems for clinical risk detection (applied AI), not frontend/full-stack; also requires NYC/SF/Seattle residency)
+- [x] #-- | https://jobs.ashbyhq.com/headway/d0d1aaed-cd19-4a9b-a2e2-5518973ba14d | skipped (triage FAIL 2.5/5: PM role, not hands-on engineering — archetype mismatch; AI-Platform focus also off-target per brief's AI/ML exclusion)
+- [x] #-- | https://jobs.ashbyhq.com/headway/82fd0412-e0fd-495d-9bde-9bdd274f43f8 | skipped (triage FAIL 2.5/5: PM role, not hands-on engineering — archetype mismatch; AI-focused product scope also off-target)
+- [x] #-- | https://jobs.ashbyhq.com/headway/2c7faf60-19df-49c9-9e19-f1bbfa839dc2 | skipped (triage FAIL 1.8/5: Hard DQ: role is building ML models/claims-AI agents (applied-AI engineering), not frontend/full-stack despite React in stack)
+- [x] #-- | https://jobs.ashbyhq.com/headway/9ce97d23-19aa-4741-97cf-e8532ce747d3 | skipped (triage FAIL 1.5/5: Hard DQ: Hybrid, NYC/SF/Seattle only, no remote option; also management track, not target IC archetype)
+- [x] #-- | https://jobs.ashbyhq.com/headway/64998174-15cc-46e4-8a51-e67c131b94af | skipped (triage FAIL 2.5/5: Ops/strategy role, not engineering — archetype mismatch, no proof-point overlap)
+- [x] #-- | https://jobs.ashbyhq.com/headway/6894c152-cc8e-431a-85a4-131f4b885b95 | skipped (triage FAIL 1.5/5: Hard DQ: confirmed Hybrid, NYC/SF/Seattle only, no remote; management role, archetype mismatch)
+- [x] #-- | https://jobs.ashbyhq.com/headway/82e63da4-9c69-4439-904e-ac069895c7fe | skipped (triage FAIL 1.5/5: Hard DQ: confirmed Hybrid, NYC/SF/Seattle only, no remote; management role, archetype mismatch)
+- [x] #-- | https://jobs.ashbyhq.com/headway/f33bd5f6-de83-481a-8d06-0f16c8f83907 | skipped (triage FAIL 2.5/5: Ops/strategy role, not engineering — archetype mismatch, no proof-point overlap)
+- [x] #-- | https://jobs.ashbyhq.com/headway/748fe666-44a1-4509-af9f-6ce6c3252e12 | skipped (triage FAIL 1.5/5: Hybrid, NYC/SF/Seattle only (matches sibling EM postings' pattern), no remote; management role, archetype mismatch)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7701909003 | skipped (triage FAIL 2.5/5: Backend-only management role (chaos engineering/Kubernetes), no frontend, no management proof point — weak archetype and cv fit)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7820446003 | skipped (triage FAIL 1.5/5: Hard DQ: requires Spain residency (Remote Spain only), comp ~$86-122K near/below $110K floor)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7822385003 | skipped (triage FAIL 1.0/5: Hard DQ: requires Poland residency, comp ~$77-107K below $110K hard floor)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7806679003 | skipped (triage FAIL 1.5/5: Hard DQ: requires Spain residency (Remote Spain only), comp ~$86-122K near/below $110K floor)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7801371003 | skipped (triage FAIL 1.0/5: Hard DQ: requires Poland residency, comp ~$77-107K below $110K hard floor)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7636414003 | skipped (triage FAIL 2.8/5: Backend-only (Kotlin/Python), no frontend; archetype mismatch despite strong comp and remote-US location.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7832324003 | skipped (triage FAIL 2.8/5: Backend-only API work, no frontend component; archetype mismatch despite strong comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7737155003 | skipped (triage FAIL 2.0/5: Hard DQ: Remote UK requires UK residency, no remote-from-Chicago option; also backend-only.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7808384003 | skipped (triage FAIL 2.8/5: Backend-only, no frontend; archetype mismatch despite strong comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7118739003 | skipped (triage FAIL 2.0/5: Hard DQ: JD explicitly requires Spain residency, no Chicago-remote option; backend-only besides.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7820306003 | skipped (triage FAIL 2.8/5: Backend-titled infra role; incidental React/Vue+LLM mention doesn't offset archetype mismatch.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7806685003 | skipped (triage FAIL 2.0/5: Hard DQ: Remote Poland requires residency, no Chicago-remote option; backend-only.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7827039003 | skipped (triage FAIL 2.0/5: Hard DQ: Remote UK requires UK residency, no Chicago-remote option, despite good full-stack fit.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7799935003 | skipped (triage FAIL 1.5/5: Double Hard DQ: mobile-native (React Native) primary skill, plus Remote-Spain residency requirement.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7807506003 | skipped (triage FAIL 1.0/5: Double Hard DQ: comp ~$62-94K under $110K floor, plus Spain-residency requirement.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7809763003 | skipped (triage FAIL 1.0/5: Double Hard DQ: comp ~$62-94K under floor, plus Spain-residency requirement, despite fullstack fit.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7766277003 | skipped (triage FAIL 2.8/5: Backend-only, no frontend; archetype mismatch despite comp clearing floor and remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7813157003 | skipped (triage FAIL 1.0/5: Comp ~$79-118K near/under floor plus Hard DQ: Spain-residency requirement, no Chicago-remote option.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7799346003 | skipped (triage FAIL 1.0/5: Comp near/under floor plus Hard DQ: explicit Spain-residency requirement.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7854835003 | skipped (triage FAIL 2.0/5: Hard DQ: Remote UK requires UK residency, no Chicago-remote option, despite good fullstack fit.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7819449003 | skipped (triage FAIL 2.8/5: Backend identity/auth engineering (OAuth/SAML), no frontend; archetype mismatch despite excellent comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7994553003 | skipped (triage FAIL 1.5/5: Hard DQ: primary skill is security/AI-governance engineering, outside JS/TS/frontend/full-stack archetypes.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7609696003 | skipped (triage FAIL 1.5/5: Hard DQ: Remote Poland requires residency, no Chicago-remote option; comp also near/under target.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7813107003 | skipped (triage FAIL 2.8/5: Backend banking-infra role (Terraform/Snowflake), no frontend; archetype mismatch despite excellent comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7719647003 | skipped (triage FAIL 2.8/5: Backend-only capacity-modeling infra, no frontend; archetype mismatch despite excellent comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7820453003 | skipped (triage FAIL 1.5/5: Hard DQ: Remote Poland requires residency, no Chicago-remote option; backend-primary besides.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7637823003 | skipped (triage FAIL 1.5/5: Hard DQ: Remote Poland requires residency, no Chicago-remote option; backend-only besides.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7931494003 | skipped (triage FAIL 2.0/5: Hard DQ: JD explicitly requires Spain residency, no Chicago-remote option; backend-only besides.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7800317003 | skipped (triage FAIL 2.8/5: Backend-only ledger infra, no frontend; archetype mismatch despite excellent comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7833950003 | skipped (triage FAIL 2.8/5: Backend-only data-platform infra, no frontend; archetype mismatch despite excellent comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7819704003 | skipped (triage FAIL 2.8/5: Backend-only order/payments infra, no frontend; archetype mismatch despite excellent comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7803078003 | skipped (triage FAIL 2.8/5: Backend-primary search/recommendation infra; incidental React mention doesn't offset archetype mismatch.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7749580003 | skipped (triage FAIL 2.8/5: Backend/CI build-infra role, no frontend work; archetype mismatch despite excellent comp/remote-US.)
+- [x] #-- | https://job-boards.greenhouse.io/affirm/jobs/7829427003 | skipped (triage FAIL 2.0/5: Hard DQ: mobile-native (React Native/Expo + iOS/Android) primary skill, despite excellent comp/remote-US.)
+- [x] #-- | https://www.asana.com/jobs/apply/8044815?gh_jid=8044815 | skipped (triage FAIL 1.0/5: Hard DQ: non-engineering PM role, AI-primary, NYC on-site with no stated remote option.)
+- [x] #-- | https://www.asana.com/jobs/apply/8212172?gh_jid=8212172 | skipped (triage FAIL 1.5/5: Hard DQ: NYC hybrid, mandatory in-office, no remote, relocation outside Chicago; also AI-tooling-focused, not core frontend/full-stack.)
+- [x] #-- | https://www.asana.com/jobs/apply/7961475?gh_jid=7961475 | skipped (triage FAIL 1.5/5: Hard DQ: NYC hybrid, mandatory in-office M/T/Th, no remote option — relocation outside Chicago required.)
+- [x] #-- | https://www.asana.com/jobs/apply/7964388?gh_jid=7964388 | skipped (triage FAIL 1.0/5: Hard DQ: NYC hybrid no remote (relocation) plus primary work is applied-AI agent tooling, not frontend/full-stack.)
+- [x] #-- | https://jobs.lever.co/activecampaign/4f81223a-50ee-495d-a3b7-942659ca5d4a | skipped (triage FAIL 1.0/5: Hard DQ: primary hands-on skill is applied-AI agent architecture/LLM workflows, not frontend/full-stack — archetype mismatch.)
+- [x] #-- | https://jobs.lever.co/wpromote/548fccae-b485-4848-978e-b27259a1136d | skipped (triage FAIL 2.8/5: AI solutions management role, no hands-on frontend/full-stack engineering; archetype mismatch outweighs strong remote comp.)
+- [x] #-- | https://jobs.lever.co/wpromote/5636d0aa-5668-44c0-90a8-c500e1fe077d | skipped (triage FAIL 2.8/5: Same: AI solutions leadership/management track, no frontend/full-stack IC substance despite strong comp.)
+- [x] #-- | https://jobs.lever.co/wpromote/9c823cf2-8a6b-4874-bf91-1ffb0dbf7c01 | skipped (triage FAIL 2.8/5: Data-engineering role (Airflow/dbt/BigQuery), no frontend work — archetype mismatch despite strong comp and remote.)
+- [x] #-- | https://jobs.lever.co/wpromote/34100f7a-af60-4907-a849-1a52b0e4a9bd | skipped (triage FAIL 2.8/5: Cloud/platform infra role (GCP/K8s/Terraform), no frontend — archetype mismatch despite strong comp.)
+- [x] #-- | https://www.builtinchicago.org/job/principal-frontend-engineer/11322963 | skipped (triage FAIL 1.0/5: Hard DQ: defense contractor — autonomous military/commercial vehicle command systems, explicit "mission-driven" defense-tech focus.)
+- [x] #-- | https://www.builtinchicago.org/job/principal-front-end-engineer/10800370 | skipped (triage FAIL 1.0/5: Hard DQ: defense contractor — company name states primary business is defense/government IT contracting.)
+- [x] #-- | https://www.builtinchicago.org/job/full-stack-engineer-4-people-tech-genai-agentic-systems-langchain-langgraph/11323998 | skipped (triage FAIL 2.0/5: Hard DQ: primary hands-on work is GenAI/agentic-systems engineering (LangChain/LangGraph/RAG), not frontend/full-stack.)
+- [x] #-- | https://www.builtinchicago.org/job/full-stack-developer-iii/11312261 | skipped (triage FAIL 2.8/5: Legacy ASP.NET/VB/C#/4D-database stack, weak CV overlap, backend-only red flag)
+- [x] #-- | https://www.builtinchicago.org/job/fullstack-software-engineer-adk/11312085 | skipped (triage FAIL 2.0/5: Hard DQ: core work is agentic/AI platform engineering, not general full-stack)
+- [x] #-- | https://www.builtinchicago.org/job/salesforce-software-engineer-ii-remote/11331755 | skipped (triage FAIL 2.2/5: Comp $87-111K barely clears floor, Salesforce/Apex niche mismatches archetype)
+- [x] #-- | https://www.builtinchicago.org/job/software-engineer-ii-automation-tester/11315402 | skipped (triage FAIL 2.5/5: Junior QA/automation-tester role, not senior dev archetype)
+- [x] #-- | https://www.builtinchicago.org/job/senior-performance-software-engineer/11320245 | skipped (triage FAIL 2.5/5: Performance/infra testing role (Java/Kotlin/C++/Go), excludes Chicago)
+- [x] #-- | https://www.builtinchicago.org/job/member-technical-staff-data-platform/11217842 | skipped (triage FAIL 2.4/5: Principal-level data engineering/architecture, no frontend)
+- [x] #-- | https://www.builtinchicago.org/job/research-software-engineer/11335764 | skipped (triage FAIL 2.5/5: Hard DQ: comp ceiling $93.5K below $110K hard floor)
+- [x] #-- | https://www.builtinchicago.org/job/software-developer-frm-trading-technologies/10797897 | skipped (triage FAIL 2.5/5: Hard DQ: comp ceiling $109K below $110K hard floor)
+- [x] ~~http://bankrate.com/careers/current-openings?gh_jid=8052803 | Bankrate | Senior Software Engineer~~ — posting expired (confirmed during full evaluation)
+- [x] ~~http://bankrate.com/careers/current-openings?gh_jid=7898972 | Bankrate | Staff Engineer~~ — posting expired (confirmed during full evaluation)
+- [x] #022 | https://jobs.ashbyhq.com/fin/a8c9c0b0-5f52-4304-8604-40d808726047 | Fin | Senior Full-Stack Software Engineer | 3.1/5 | PDF ✅
+- [x] #023 | https://job-boards.greenhouse.io/attentive/jobs/4120606009 | Attentive | Senior Software Engineer, Identity | 2.7/5 | PDF ❌
+- [x] #024 | https://jobs.ashbyhq.com/headway/edea3700-6c69-4e63-bd9f-b05147734e80 | Headway | Senior Fullstack Software Engineer | 4.1/5 | PDF ✅
+- [x] #025 | https://jobs.ashbyhq.com/headway/0b417359-508a-4a09-8794-51962773108c | Headway | Staff Fullstack Software Engineer (Provider) | 3.9/5 | PDF ✅
+- [x] #026 | https://jobs.ashbyhq.com/headway/c22233f6-3143-4cb4-9c0c-8119e7ae7629 | Headway | Staff Software Engineer - Experimentation | 2.7/5 | PDF ❌
+- [x] #027 | https://job-boards.greenhouse.io/affirm/jobs/7663434003 | Affirm | Senior Software Engineer, Fullstack (Consumer Engineering) | 2.6/5 | PDF ❌
+- [x] #028 | https://jobs.lever.co/wpromote/44dbebcf-92a2-42bf-925e-ea7fa4804ca5 | Wpromote | Senior Software Engineer I, Full Stack | 4.2/5 | PDF ✅
+- [x] #029 | https://www.builtinchicago.org/job/sr-frontend-engineer-react/11337218 | Utility | Sr. Frontend Engineer (React) | 4.0/5 | PDF ✅
+- [x] #030 | https://www.builtinchicago.org/job/senior-frontend-engineer-jtx/11326437 | Jito Labs | Senior Frontend Engineer - JTX | 3.5/5 | PDF ✅
+- [x] #031 | https://www.builtinchicago.org/job/senior-frontend-engineer/9750168 | Healiom Inc. | Senior Frontend Engineer | 4.2/5 | PDF ✅
+- [x] #032 | https://www.builtinchicago.org/job/staff-full-stack-engineer/11337069 | Capital One | Staff Full-stack Engineer | 3.4/5 | PDF ✅
+- [x] #033 | https://www.builtinchicago.org/job/full-stack-engineer-4-automation-quality-engineer/11337104 | Capital One | Full-Stack Engineer 4 (Automation Quality Engineer) | 3.9/5 | PDF ✅
+- [x] #034 | https://www.builtinchicago.org/job/director-full-stack-engineer/11336989 | Capital One | Director, Full Stack Engineer | 1.9/5 | PDF ❌
+- [x] #035 | https://www.builtinchicago.org/job/senior-manager-full-stack-engineer/11337003 | Capital One | Senior Manager, Full-stack Engineer | 2.1/5 | PDF ❌
+- [x] #036 | https://www.builtinchicago.org/job/staff-full-stack-engineer-reliability-engineering/11337055 | Capital One | Staff Full Stack Engineer (Reliability Engineering) | 3.6/5 | PDF ✅
+- [x] #037 | https://www.builtinchicago.org/job/full-stack-engineer-5-go-typescript-and-angular/11337068 | Capital One | Full-stack Engineer 5 (Go, TypeScript and Angular) | 3.7/5 | PDF ✅
+- [x] #038 | https://www.builtinchicago.org/job/full-stack-engineer-4-golang/11337085 | Capital One | Full-stack Engineer 4 (GoLang) | 4.0/5 | PDF ✅
+- [x] #039 | https://www.builtinchicago.org/job/full-stack-engineer-4/11337040 | Capital One | Full-stack Engineer 4 | 3.8/5 | PDF ✅
+- [x] #040 | https://www.builtinchicago.org/job/lead-software-engineer-full-stack/11334282 | JPMorganChase | Lead Software Engineer - Full Stack | 2.6/5 | PDF ❌
+- [x] #041 | https://www.builtinchicago.org/job/full-stack-engineer-5/11323993 | Capital One | Full Stack Engineer 5 | 3.7/5 | PDF ✅
+- [x] #042 | https://www.builtinchicago.org/job/full-stack-engineer-4-golang-aws/11323964 | Capital One | Full-Stack Engineer 4 (Golang, AWS) | 4.0/5 | PDF ✅
+- [x] #043 | https://www.builtinchicago.org/job/senior-manager-full-stack-engineer-global-payment-network/11323941 | Capital One | Senior Manager, Full-stack Engineer (Global Payment Network) | 2.0/5 | PDF ❌
+- [x] #044 | https://www.builtinchicago.org/job/senior-fullstack-software-engineer/9725762 | Reunion | Senior Fullstack Software Engineer | 3.8/5 | PDF ✅
+- [x] #045 | https://www.builtinchicago.org/job/software-engineering-smts-lmts/11065417 | Salesforce | Full Stack Engineer (Senior/Lead) - MeshMesh | 4.1/5 | PDF ✅
+- [x] #046 | https://www.builtinchicago.org/job/senior-software-engineer-full-stack-copy/11336041 | Nerdery | Senior Software Engineer (Full Stack) (Copy) | 3.4/5 | PDF ✅
+- [x] ~~https://www.builtinchicago.org/job/senior-full-stack-engineer/11322793 | Nadia Care | Senior Full-Stack Engineer~~ — posting expired (confirmed during full evaluation)
+- [x] #048 | https://www.builtinchicago.org/job/senior-full-stack-engineer/11185052 | Council Capital | Senior Full Stack Engineer | 4.0/5 | PDF ✅
+- [x] #049 | https://www.builtinchicago.org/job/senior-full-stack-typescript-engineer/11318694 | Mirantis | Senior Full-Stack TypeScript Engineer | 3.2/5 | PDF ✅
+- [x] #050 | https://www.builtinchicago.org/job/senior-full-stack-software-engineer-react-node/10445436 | Reputation | Senior Full Stack Software Engineer (React/Node) | 3.4/5 | PDF ✅
+- [x] #051 | https://www.builtinchicago.org/job/software-engineer-3/11317488 | Cedar | Software Engineer 3 | 4.1/5 | PDF ✅
+- [x] #052 | https://www.builtinchicago.org/job/senior-software-engineer-i/11338095 | Braze | Senior Software Engineer I | 3.7/5 | PDF ✅
+- [x] #053 | https://www.builtinchicago.org/job/senior-software-engineer-i-email/11334086 | Braze | Senior Software Engineer I, Email | 4.0/5 | PDF ✅
+- [x] #054 | https://www.builtinchicago.org/job/front-end-engineering-manager-firefox-desktop/11320037 | Mozilla | Front End Engineering Manager, Firefox Desktop | 2.0/5 | PDF ❌

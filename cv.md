@@ -21,6 +21,7 @@ Chicago, Illinois · December 2018 – July 2026
 - Designed and implemented major architectural features, including a video editing suite, an Electron application and sandbox harness, and internal shared NPM libraries.
 - Designed and maintained the internal UI component library.
 - Designed and implemented several large architectural projects.
+- Configured Azure build automation pipelines.
 - Proactively built tools for other departments after learning about their jobs and pain points.
 - Mentored junior developers via constructive PR reviews and pair programming sessions.
 
@@ -74,6 +75,16 @@ Kansas City, Missouri · January 2011 – June 2012
 October 2015 – Present · statzonstatz.com
 
 - Interactive data visualization focused on NBA weekly power rankings.
+### AI-Assisted NBA Stats
+September 2026 – Present · github.com/nathanemyers/ai-assisted-nba-stats
+
+- Sandbox project exploring local LLM tool-calling: a local Ollama model answers NBA questions by writing and executing SQL against a local SQLite database via Ollama's function-calling API.
+- Stack: TypeScript, Ollama, SQLite, Node.js
+### Virtual Dungeon Master Screen
+February 2026 · github.com/nathanemyers/virtual-dungeon-master-screen
+
+- Searchable reference tool for D&D 5e spells and monsters.
+- Stack: JavaScript
 
 ## Education
 
