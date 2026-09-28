@@ -1,0 +1,2 @@
+num	date	company	role	status	score	pdf	report	notes	url
+055	2026-09-24	Fin	Senior Backend Software Engineer	Evaluated	2.9/5	❌	[055](reports/055-fin-2026-09-24.md)	Backend-only payments infra; TS/Node match but IaC/K8s/distributed-payments gaps; Series A, no comp stated; warm intro possible (Scott Southard, verify same Fin); posted: 2025-12-03	https://jobs.ashbyhq.com/fin/46d733e1-d8e8-4b28-b5f0-f8cde1dcbcc1

@@ -1,0 +1,2 @@
+num	date	company	role	status	score	pdf	report	notes	url
+068	2026-09-24	Affirm	Software Engineer II, Backend (Test Infra)	Evaluated	3.0/5	✅	[068](reports/068-affirm-2026-09-24.md)	req JR103941; Automation archetype hit (CI pipelines, TS+Python, TDD); JD asks East Coast location (Chicago=Central, confirm first); SWE II downlevel; Playwright/Pytest/Docker gaps; comp $146K-$206K; warm intro: Andrew R Klitzke; posted: 2026-07-10	https://job-boards.greenhouse.io/affirm/jobs/7727320003

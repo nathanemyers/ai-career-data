@@ -1,0 +1,2 @@
+num	date	company	role	status	score	pdf	report	notes	url
+065	2026-09-24	Affirm	Senior Software Engineer, Backend (Card Ledger & Money Movement)	Evaluated	2.4/5	❌	[065](reports/065-affirm-2026-09-24.md)	req JR104289; generic backend Python/Kotlin + AWS/MySQL/K8s spec, partial; money-movement domain gap; comp $173K-$233K; warm intro: Andrew R Klitzke; posted: 2026-09-01	https://job-boards.greenhouse.io/affirm/jobs/7980264003

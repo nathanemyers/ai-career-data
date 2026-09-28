@@ -49,7 +49,21 @@
      - Show the per-step token breakdown after a batch run.
      - Save PDFs date-first: YYYY-MM-DD-company.pdf -->
 
-(none yet -- add yours above)
+- **Warm-intro callout at the top of every evaluation report.** Before writing
+  a report (`oferta`, `auto-pipeline`, `pipeline`, `batch`), run
+  `node linkedin-join.mjs --company "<Company>" --summary` (add `--include-weak`
+  if the strict match finds nothing, but label weak hits as "possible match").
+  If there are first-degree connections, insert this block directly under the
+  `# Evaluation: {Company} — {Role}` title, above `**Date:**`:
+
+  ```markdown
+  > **🤝 LinkedIn connections at {Company}:** {Name} — {Position} ({profile URL}); …
+  ```
+
+  If there are none, skip the block (don't write a "none" line). This is
+  operational info only: it never changes the score (Blocks A–F) and never goes
+  into CV / cover letter / form-answer content. Source: `data/Connections.csv`
+  (re-export from LinkedIn periodically to keep it fresh).
 
 ## Off-Limits
 

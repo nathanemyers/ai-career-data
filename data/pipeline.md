@@ -4,27 +4,43 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
 
-- [ ] https://jobs.ashbyhq.com/fin/46d733e1-d8e8-4b28-b5f0-f8cde1dcbcc1 | Fin | Senior Backend Software Engineer | New York, NY · Remote · New York · United States | posted: 2025-12-03
-- [ ] https://job-boards.greenhouse.io/attentive/jobs/4120599009 | Attentive | Senior Software Engineer, Streaming | United States | posted: 2026-02-12
-- [ ] https://job-boards.greenhouse.io/attentive/jobs/4369486009 | Attentive | Staff Software Engineer, Shopper Data Platform | United States | posted: 2026-08-14
-- [ ] https://jobs.ashbyhq.com/headway/e78703a3-4089-40fa-8a17-4afb811d3855 | Headway | Senior Backend Software Engineer | New York, NY · San Francisco, CA · San Francisco · United States · Seattle, WA · Seattle · Remote | posted: 2024-09-16
-- [ ] https://jobs.ashbyhq.com/headway/d123a2aa-7c3c-4833-bfc2-4d3356db1041 | Headway | Staff Software Engineer (Journeys) | Remote · San Francisco, CA · San Francisco · United States · Seattle, WA · Seattle · New York City · New York | posted: 2026-08-10
-- [ ] https://jobs.ashbyhq.com/headway/8bc00fec-bfc7-47ff-bef4-2d71776a56cb | Headway | Senior Engineering Manager (Ranking & Relevance) | Remote · San Francisco, CA · San Francisco · United States · Seattle, WA · Seattle · New York City · New York | posted: 2026-09-08
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7918497003 | Affirm | Manager, Software Engineering (App Experiences) | Remote US | posted: 2026-08-21
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7671388003 | Affirm | Senior CIAM Software Engineer | Remote US | posted: 2026-04-09
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7812982003 | Affirm | Senior Software Engineer, Affirm Bank | Remote US | posted: 2026-07-27
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7785812003 | Affirm | Senior Software Engineer, Backend (Batch Infrastructure) | Remote US | posted: 2026-08-05
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7980264003 | Affirm | Senior Software Engineer, Backend (Card Ledger & Money Movement) | Remote US | posted: 2026-09-01
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7799631003 | Affirm | Senior Software Engineer, Backend (Lake Analytics Platform) | Remote US | posted: 2026-07-10
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7906337003 | Affirm | Senior Software Engineer, Backend (Loan Origination and Reporting) | Remote US | posted: 2026-09-11
-- [ ] https://job-boards.greenhouse.io/affirm/jobs/7727320003 | Affirm | Software Engineer II, Backend (Test Infra) | Remote US | posted: 2026-07-10
-- [ ] https://www.builtinchicago.org/job/freelance-senior-frontend-software-engineer/11319510 | Left Field Labs | Freelance Senior Frontend Software Engineer | Remote · United States | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/software-engineer-lead/11324758 | PNC Bank | Software Engineer Lead | Remote or Hybrid · USA | posted: 2026-09-23
-- [ ] https://www.builtinchicago.org/job/lead-software-engineer-reference-data-engineering/11318237 | JPMorganChase | Lead Software Engineer - Reference Data Engineering | Hybrid · Chicago, IL, USA | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/principal-software-engineer/11309340 | iManage | Principal Software Engineer | Hybrid · Chicago, IL, USA | 150000-200000 | posted: 2026-09-22
-- [ ] https://www.builtinchicago.org/job/software-engineer-production-platform/11320698 | Aquatic Capital Management | Software Engineer, Production Platform | In-Office · Chicago, IL, USA | 150000-300000 | posted: 2026-09-22
-
 ## Processed
+- [x] #055 | https://jobs.ashbyhq.com/fin/46d733e1-d8e8-4b28-b5f0-f8cde1dcbcc1 | Fin | Senior Backend Software Engineer | 2.9/5 | PDF ❌
+- [x] #056 | https://job-boards.greenhouse.io/attentive/jobs/4120599009 | Attentive | Senior Software Engineer, Streaming | 1.8/5 | PDF ❌
+- [x] #057 | https://job-boards.greenhouse.io/attentive/jobs/4369486009 | Attentive | Staff Software Engineer, Shopper Data Platform | 2.0/5 | PDF ❌
+- [x] #058 | https://jobs.ashbyhq.com/headway/e78703a3-4089-40fa-8a17-4afb811d3855 | Headway | Senior Backend Software Engineer | 3.6/5 | PDF ✅
+- [x] #059 | https://jobs.ashbyhq.com/headway/d123a2aa-7c3c-4833-bfc2-4d3356db1041 | Headway | Staff Software Engineer (Journeys) | 2.6/5 | PDF ❌
+- [x] #060 | https://jobs.ashbyhq.com/headway/8bc00fec-bfc7-47ff-bef4-2d71776a56cb | Headway | Senior Engineering Manager (Ranking & Relevance) | 1.5/5 | PDF ❌
+- [x] #061 | https://job-boards.greenhouse.io/affirm/jobs/7918497003 | Affirm | Manager, Software Engineering (App Experiences) | 1.9/5 | PDF ❌
+- [x] #062 | https://job-boards.greenhouse.io/affirm/jobs/7671388003 | Affirm | Senior CIAM Software Engineer | 1.8/5 | PDF ❌
+- [x] #063 | https://job-boards.greenhouse.io/affirm/jobs/7812982003 | Affirm | Senior Software Engineer, Affirm Bank | 2.5/5 | PDF ❌
+- [x] #064 | https://job-boards.greenhouse.io/affirm/jobs/7785812003 | Affirm | Senior Software Engineer, Backend (Batch Infrastructure) | 1.9/5 | PDF ❌
+- [x] #065 | https://job-boards.greenhouse.io/affirm/jobs/7980264003 | Affirm | Senior Software Engineer, Backend (Card Ledger & Money Movement) | 2.4/5 | PDF ❌
+- [x] #066 | https://job-boards.greenhouse.io/affirm/jobs/7799631003 | Affirm | Senior Software Engineer, Backend (Lake Analytics Platform) | 2.1/5 | PDF ❌
+- [x] #067 | https://job-boards.greenhouse.io/affirm/jobs/7906337003 | Affirm | Senior Software Engineer, Backend (Loan Origination and Reporting) | 2.0/5 | PDF ❌
+- [x] #068 | https://job-boards.greenhouse.io/affirm/jobs/7727320003 | Affirm | Software Engineer II, Backend (Test Infra) | 3.0/5 | PDF ✅
+- [x] #069 | https://www.builtinchicago.org/job/freelance-senior-frontend-software-engineer/11319510 | Left Field Labs | Freelance Senior Frontend Software Engineer | 2.3/5 | PDF ❌
+- [x] ~~https://www.builtinchicago.org/job/software-engineer-lead/11324758 | PNC Bank | Software Engineer Lead~~ — posting expired (BuiltIn: "Sorry, this job was removed" 2026-09-24)
+- [x] #072 | https://www.builtinchicago.org/job/lead-software-engineer-reference-data-engineering/11318237 | JPMorganChase | Lead Software Engineer - Reference Data Engineering | 2.2/5 | PDF ❌
+- [x] #073 | https://www.builtinchicago.org/job/principal-software-engineer/11309340 | iManage | Principal Software Engineer | 2.8/5 | PDF ❌
+- [x] #070 | https://www.builtinchicago.org/job/software-engineer-production-platform/11320698 | Aquatic Capital Management | Software Engineer, Production Platform | 4.1/5 | PDF ✅
+- [x] #088 | https://job-boards.greenhouse.io/attentive/jobs/4418793009 | Attentive | Senior Engineering Manager, Platform | 1.5/5 | PDF ❌
+- [x] #089 | https://job-boards.greenhouse.io/affirm/jobs/7985860003 | Affirm | Software Engineer II, Backend (Identity Decisioning) | 2.3/5 | PDF ❌
+- [x] #074 | https://www.builtinchicago.org/job/senior-front-end-engineer/11350816 | Gametime | Senior Front End Engineer | 4.0/5 | PDF ✅
+- [x] #075 | https://www.builtinchicago.org/job/everwell-front-end-engineer-remote-us/11347926 | EverCommerce | EverWell - Front End Engineer (Remote, US) | 1.8/5 | PDF ❌
+- [x] #078 | https://www.builtinchicago.org/job/senior-software-engineer-frontend/11343139 | Sardine | Senior Software Engineer, Frontend | 1.0/5 | PDF ❌
+- [x] #079 | https://www.builtinchicago.org/job/senior-software-engineer/11010954 | Veterinary Emergency Group | Senior Frontend Software Engineer | 1.0/5 | PDF ❌
+- [x] #076 | https://www.builtinchicago.org/job/senior-full-stack-engineer/11350828 | Gametime | Senior Full Stack Engineer | 3.6/5 | PDF ✅
+- [x] #080 | https://www.builtinchicago.org/job/software-engineer-full-stack/9750573 | Uplimit | Software Engineer - Full Stack | 2.8/5 | PDF ❌
+- [x] #083 | https://www.builtinchicago.org/job/full-stack-developer-boston-ma/11344831 | Photon | Full stack Developer-Boston, MA | 1.6/5 | PDF ❌
+- [x] #084 | https://www.builtinchicago.org/job/senior-full-stack-engineer/11341765 | Earnin | Senior Full-Stack Engineer | 4.0/5 | PDF ✅
+- [x] #085 | https://www.builtinchicago.org/job/senior-software-engineer-risk-management/11171214 | Vanta | Senior Fullstack Software Engineer, Risk | 3.4/5 | PDF ✅
+- [x] #071 | https://www.builtinchicago.org/job/senior-engineer-full-stack/11339272 | Bellese Technologies | Senior Engineer, Full Stack | 3.3/5 | PDF ✅
+- [x] #077 | https://www.builtinchicago.org/job/software-engineer-devops/11339946 | iManage | Software Engineer (DevOps) | 2.9/5 | PDF ❌
+- [x] #081 | https://www.builtinchicago.org/job/senior-c-software-engineer/11356057 | Belvedere Trading | Senior C++ Software Engineer | 1.5/5 | PDF ❌
+- [x] #087 | https://www.builtinchicago.org/job/software-engineer-central-trading/11356232 | Jump Trading Group | Software Engineer, Central Trading | 2.8/5 | PDF ❌
+- [x] #082 | https://www.builtinchicago.org/job/software-engineer-bioinformatics-pipelines/11343042 | Ontrac Solutions | Software Engineer – Bioinformatics Pipelines | 1.4/5 | PDF ❌
+- [x] #086 | https://www.builtinchicago.org/job/staff-software-engineer/11352384 | Engine | Staff Software Engineer | 2.6/5 | PDF ❌
 - [x] #013 | https://www.builtinchicago.org/job/frontend-developer-fiori-ui5/9751172 | Pontoon Global Solutions | Frontend Developer(Fiori+UI5) | 1.2/5 | PDF ❌
 - [x] #014 | https://www.builtinchicago.org/job/senior-full-stack-software-engineer/11308341 | Aligned | Senior Full Stack Software Engineer | 3.5/5 | PDF ✅
 - [x] #015 | https://www.builtinchicago.org/job/senior-software-engineer-product-hybrid/11305973 | Enova | Senior Software Engineer - Product (Hybrid) | 4.2/5 | PDF ✅
