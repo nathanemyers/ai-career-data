@@ -48,8 +48,9 @@ December 2018 - July 2026
 - Built a custom solution to embed React components within legacy KO.js components and vice versa
 - Created a custom admin tool used throughout the company for internal support
 - Completely refactored a complex mature initialization architecture that was exhibiting race conditions
-- Built a flexible and extensible API supporting multiple teams around Electron
-- Refactored mature electron app to enforce sandboxing and allow pieces to be delegated inside of BrowserViews. Included the design and implementation of an internal windowing system.
+- Built a flexible and extensible API over Electron IPC supporting multiple teams to enforce sandboxing
+- Refactored mature electron app to enforce sandboxing and allow pieces to be delegated inside of WebContentViews. Included the design and implementation of an internal windowing system.
+- Electron, NodeJS, GoLang, LISP, JS, TS, React, styled-components, Redux, Redux Saga, React Query, KOJS, Figma, NPM, Azure, Jenkins
 
 ### Placester
 
@@ -122,3 +123,12 @@ January 2011 - June 2012
 
 - Developed highly available SaaS for message processing and routing.
 - Java 6, Mule ESB, Spring MVC, Maven, Jenkins
+
+## Side Projects
+
+I have been experimenting and learning what I can about modern AI tooling and programming techniques. I am excited to take this knowledge and apply it to my next job.
+
+- Ran local AI models and manually connected them to MCP servers.
+- Analysed existing large skills based repositories to figure out how they work.
+- Gained familiarity with Claude Code and ollama.
+- Written several toy agent skill projects.
