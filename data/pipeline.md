@@ -5,6 +5,32 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 ## Pending
 
 ## Processed
+
+- [x] #090 | https://job-boards.greenhouse.io/affirm/jobs/7993030003 | Affirm | Staff Software Engineer, Backend (Trust and Safety) | 2.4/5 | PDF ❌
+- [x] #091 | https://www.builtinchicago.org/job/senior-staff-front-end-engineer/11378023 | Clear Street | Senior / Staff Front End Engineer | 4.1/5 | PDF ✅
+- [x] #092 | https://www.builtinchicago.org/job/frontend-engineer/11385685 | ? (via Weekday) | Frontend Engineer | 3.8/5 | PDF ✅
+- [x] #093 | https://www.builtinchicago.org/job/senior-frontend-engineer-react-typescript/11372572 | DuckDuckGo | Senior Frontend Engineer, React/Typescript | 4.2/5 | PDF ✅
+- [x] #094 | https://www.builtinchicago.org/job/senior-staff-full-stack-engineer-customer-platforms/11386393 | Capital One | Senior Staff Full-stack Engineer - Customer Platforms | 2.4/5 | PDF ❌
+- [x] #095 | https://www.builtinchicago.org/job/senior-staff-full-stack-engineer-remote-eligible/11377489 | Capital One | Senior Staff Full-Stack Engineer (Remote Eligible) | 2.6/5 | PDF ❌
+- [x] #096 | https://www.builtinchicago.org/job/full-stack-engineer-4-python-aws-ai-snowflake-databricks/11358867 | Capital One | Full Stack Engineer 4 (Python, AWS, AI, Snowflake, Databricks) | 3.5/5 | PDF ✅
+- [x] #097 | https://www.builtinchicago.org/job/senior-fullstack-engineer-gtm/11144928 | Mangomint | Senior Fullstack Engineer, GTM | 4.2/5 | PDF ✅
+- [x] #098 | https://www.builtinchicago.org/job/senior-full-stack-engineer-website-development/11399017 | Calendly | Senior Full Stack Engineer, Website Development | 3.9/5 | PDF ✅
+- [x] #099 | https://www.builtinchicago.org/job/senior-software-engineer-full-stack/11393750 | Postscript | Senior Software Engineer, Full Stack | 3.2/5 | PDF ✅
+- [x] #100 | https://www.builtinchicago.org/job/full-stack-engineer/9896884 | Parakeet | Full-Stack Engineer | 3.2/5 | PDF ✅
+- [x] #101 | https://www.builtinchicago.org/job/full-stack-engineer-focus-go/9752731 | Doyen AI | Full-Stack Engineer with Focus on Go | 2.9/5 | PDF ❌
+- [x] #102 | https://www.builtinchicago.org/job/fullstack-engineer/9749869 | WerQ AI | Fullstack Engineer | 2.8/5 | PDF ❌
+- [x] #103 | https://www.builtinchicago.org/job/senior-full-stack-engineer/9749871 | WerQ AI | Senior Full Stack Engineer | 1.6/5 | PDF ❌
+- [x] #104 | https://www.builtinchicago.org/job/software-engineer-iv-search-platform/11382508 | Grainger | Software Engineer IV - Search Platform | 1.0/5 | PDF ❌
+- [x] #105 | https://www.builtinchicago.org/job/senior-software-engineer-backend/11386695 | Grainger | Senior Software Engineer, Backend | 1.0/5 | PDF ❌
+- [x] #106 | https://www.builtinchicago.org/job/lead-software-engineer/11380947 | JPMorganChase | Lead Software Engineer | 2.4/5 | PDF ❌
+- [x] #107 | https://www.builtinchicago.org/job/sr-staff-software-engineer-card-tech/11377510 | Capital One | Sr. Staff Software Engineer - Card Tech | 2.3/5 | PDF ❌
+- [x] #108 | https://www.builtinchicago.org/job/staff-software-engineer-card-tech/11358924 | Capital One | Staff Software Engineer - Card Tech | 2.8/5 | PDF ❌
+- [x] #109 | https://www.builtinchicago.org/job/software-engineer/11378527 | Cboe Global Markets | Software Engineer | 3.0/5 | PDF ✅
+
+- [x] #-- | https://www.builtinchicago.org/job/full-stack-engineer-early-career/9896979 | skipped (pre-screen mismatch: early-career level, below candidate seniority)
+- [x] #-- | https://www.builtinchicago.org/job/software-engineer-ii-kotlin-core-experience/11372409 | skipped (pre-screen mismatch: SWE II level, Kotlin stack)
+- [x] #-- | https://www.builtinchicago.org/job/senior-software-engineer/10752747 | skipped (pre-screen mismatch: in-office Schaumburg, comp below target)
+- [x] #-- | https://www.builtinchicago.org/job/c-staff-software-engineer/11075294 | skipped (pre-screen mismatch: C++ systems role, outside candidate stack)
 - [x] #055 | https://jobs.ashbyhq.com/fin/46d733e1-d8e8-4b28-b5f0-f8cde1dcbcc1 | Fin | Senior Backend Software Engineer | 2.9/5 | PDF ❌
 - [x] #056 | https://job-boards.greenhouse.io/attentive/jobs/4120599009 | Attentive | Senior Software Engineer, Streaming | 1.8/5 | PDF ❌
 - [x] #057 | https://job-boards.greenhouse.io/attentive/jobs/4369486009 | Attentive | Staff Software Engineer, Shopper Data Platform | 2.0/5 | PDF ❌
