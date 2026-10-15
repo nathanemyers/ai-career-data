@@ -126,9 +126,14 @@ January 2011 - June 2012
 
 ## Side Projects
 
-I have been experimenting and learning what I can about modern AI tooling and programming techniques. I am excited to take this knowledge and apply it to my next job.
+### NBA Power Rankings Chart
 
-- Ran local AI models and manually connected them to MCP servers.
-- Analysed existing large skills based repositories to figure out how they work.
-- Gained familiarity with Claude Code and ollama.
-- Written several toy agent skill projects.
+https://nathanemyers.github.io/nba-weekly-power-rankings/
+
+- This is a side project experiment with new AI driven development techniques and to learn Tailwind CSS and shadcn/ui.
+- shadcn/ui, Tailwind CSS, GitHub Spec-Kit, React, Vite, Vitest, Redux
+
+### Local AI Harness
+
+- Experimented with building a local AI harness with custom MCP modules
+- ollama, Claude Code

@@ -21,6 +21,7 @@ Chicago, Illinois · December 2018 – July 2026
 - Designed and implemented major architectural features, including a video editing suite, an Electron application and sandbox harness, and internal shared NPM libraries.
 - Designed and maintained the internal UI component library.
 - Designed and implemented several large architectural projects.
+- Built backend data pipelines and services.
 - Configured Azure build automation pipelines.
 - Proactively built tools for other departments after learning about their jobs and pain points.
 - Mentored junior developers via constructive PR reviews and pair programming sessions.
@@ -99,6 +100,6 @@ Bachelor of Science in Computer Science, May 2008
 **Languages:** JavaScript ES6+, TypeScript, HTML, CSS, GoLang, Lisp, Ruby, Python, Shell, Perl, Bash, SQL
 **Frameworks:** React, Redux, Redux Saga, Electron, Styled Components, Jest, Model Context Protocol
 **Platforms:** NodeJS, NPM, Unix
-**Tools:** Webpack, Babel, Git, ollama
+**Tools:** Webpack, Babel, Git, ollama, Claude Code
 
-**Secondary:** Full Stack Development, Rapid Prototyping, Local LLM and MCP Server Design, Test Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
+**Secondary:** Full Stack Development, Rapid Prototyping, Local LLM and MCP Server Design, Test Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), AI-Assisted Development (daily Claude Code use; actively learning agentic coding workflows)

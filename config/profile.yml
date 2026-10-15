@@ -47,7 +47,7 @@ compensation:
   target_range: "$131K+"
   currency: "USD"
   minimum: "$110K"
-  location_flexibility: "Chicago, local only, Chicago Loop"
+  location_flexibility: "Fully remote US acceptable; Chicago-local (in-office or hybrid) also acceptable; hybrid/onsite elsewhere or relocation not acceptable"
 
 location:
   country: "United States"

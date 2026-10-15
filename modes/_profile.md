@@ -92,7 +92,7 @@ Statz on Statz (statzonstatz.com) — interactive NBA power-rankings data viz, r
 ## Your Location Policy
 
 **In forms:**
-- Based in Chicago, IL — local only, no relocation.
+- Based in Chicago, IL. Open to Chicago-local roles and fully remote US roles; no relocation.
 - Not seeking visa sponsorship.
 
 **In evaluations (scoring):**

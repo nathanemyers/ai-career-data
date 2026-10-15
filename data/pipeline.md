@@ -4,7 +4,129 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 ## Pending
 
+
+- [ ] https://job-boards.greenhouse.io/attentive/jobs/4429776009 | Attentive | Director of Engineering, Marketing Agent Platform | New York, NY | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/attentive/jobs/4424815009 | Attentive | Staff Software Engineer, Compute and Network | United States | posted: 2026-09-30
+- [ ] https://jobs.ashbyhq.com/headway/68970a75-e57d-4092-840b-a84dc9f167a5 | Headway | Senior Software Engineer - Infrastructure | Remote | posted: 2026-10-02
+- [ ] https://www.asana.com/jobs/apply/8227428?gh_jid=8227428 | Asana | Principal Software Engineer, Asana Platform | New York City | posted: 2026-10-02
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8005075003 | Affirm | Senior Software Engineer, Backend (Card Loan Platform) | Remote US | posted: 2026-10-02
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8009366003 | Affirm | Senior Software Engineer, Backend (Online Storage) | Remote US | posted: 2026-09-30
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003016003 | Affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003020003 | Affirm | Software Engineer II, Backend (Streaming) | Remote US | posted: 2026-09-30
+- [ ] https://www.builtinchicago.org/job/software-engineer-frontend/11496743 | Augment Markets | Software Engineer, Frontend | Remote · United States | posted: 2026-10-04
+- [ ] https://www.builtinchicago.org/job/freelance-software-engineer-frontend/11450272 | Left Field Labs | Freelance Software Engineer, Frontend | Remote · USA | posted: 2026-09-30
+- [ ] https://www.builtinchicago.org/job/full-stack-engineer-4-global-payment-network/11486254 | Capital One | Full Stack Engineer 4 (Global Payment Network) | Hybrid · Riverwoods, IL, USA | 179000-225000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/staff-full-stack-engineer-remote-eligible-global-payment-network/11486253 | Capital One | Staff Full-stack Engineer (Remote-Eligible) - Global Payment Network | Remote or Hybrid · Riverwoods, IL, USA | 245000-307000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/senior-director-full-stack-engineer-remote-eligible-global-payment-network/11486214 | Capital One | Senior Director, Full-stack Engineer (Remote-Eligible) - Global Payment Network | Remote or Hybrid · Riverwoods, IL, USA | 286000-359000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/senior-staff-full-stack-engineer-remote-eligible-global-payment-network/11486179 | Capital One | Senior Staff Full-stack Engineer (Remote-Eligible) - Global Payment Network | Remote or Hybrid · Riverwoods, IL, USA | 286000-359000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/full-stack-engineer-5-marketing-and-messaging-experimentation/11444217 | Capital One | Full-stack Engineer 5, Marketing and Messaging Experimentation | Hybrid · Chicago, IL, USA · Riverwoods, IL, USA | 209000-262000 | posted: 2026-09-30
+- [ ] https://www.builtinchicago.org/job/full-stack-engineer-4-cloud-operations-resilience-engineering/11444194 | Capital One | Full-stack Engineer 4 (Cloud Operations Resilience Engineering) | Hybrid · Riverwoods, IL, USA | 179000-225000 | posted: 2026-09-30
+- [ ] https://www.builtinchicago.org/job/full-stack-engineer-4-enterprise-platform-marketing-technology/11444181 | Capital One | Full-stack Engineer 4, Enterprise Platform - Marketing Technology | Hybrid · Chicago, IL, USA · Riverwoods, IL, USA | 179000-225000 | posted: 2026-09-30
+- [ ] https://www.builtinchicago.org/job/senior-full-stack-engineer/11485223 | CDW | Senior Full Stack Engineer | Remote or Hybrid · US | 156000-241000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/staff-fullstack-engineer-data-products-golang-node/11480852 | GitLab | Staff Fullstack Engineer, Data Products (Golang / Node) | Remote · United States | 153000-259000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/cadre-data-software-engineer/11494448 | Federal Reserve Bank of Boston | CADRE Data/Software Engineer | In-Office · Chicago, IL, USA | 114000-182000 | posted: 2026-10-03
+- [ ] https://www.builtinchicago.org/job/sr-product-software-engineer-support-remote/11460805 | Inspira Financial | Sr. Product Software Engineer - Support (Remote) | Chicago, IL, USA | 115000-160000 | posted: 2026-10-01
+- [ ] https://www.builtinchicago.org/job/software-engineer-early-career/11454520 | IMC Trading | Software Engineer, Early Career | Hybrid · Chicago, IL, USA | 200000 | posted: 2026-10-01
+- [ ] https://www.builtinchicago.org/job/software-engineer/11524778 | Ford Motor Company | Software Engineer | United States | 133000-251000 | posted: 2026-10-06
+- [ ] https://www.builtinchicago.org/job/robotics-software-engineer/11346177 | ThoughtForge | Robotics Software Engineer | Remote or Hybrid · Chicago, IL, United States | 100000-150000 | posted: 2026-09-24
+- [ ] https://www.builtinchicago.org/job/software-engineer-i/11491098 | OppFi | Software Engineer I | Remote · United States | 86000-128000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/lead-software-engineer-gen-ai/11515411 | Caterpillar | Lead Software Engineer, Gen AI | Hybrid · Chicago, IL, USA | 128000-209000 | posted: 2026-10-05
+- [ ] https://www.builtinchicago.org/job/senior-software-engineer-smb-hyrbid/11505479 | Enova | Senior Software Engineer - SMB (Hyrbid) | In-Office · Chicago, IL, USA | 98000-140000 | posted: 2026-10-05
+- [ ] https://www.builtinchicago.org/job/lead-software-engineer-remote/11494985 | Optum | Lead Software Engineer - Remote | Schaumburg, IL, USA | 113000-193000 | posted: 2026-10-03
+- [ ] https://www.builtinchicago.org/job/sr-software-engineer-remote/11494933 | Optum | Sr Software Engineer - Remote | Schaumburg, IL, USA | 92000-164000 | posted: 2026-10-03
+- [ ] https://www.builtinchicago.org/job/lead-software-engineer/10652809 | Caterpillar | Lead Software Engineer | Hybrid · Chicago, IL, USA | 128000-209000 | posted: 2026-10-03
+- [ ] https://www.builtinchicago.org/job/senior-software-developer-test/11489194 | CSC | Senior Software Developer in Test | Remote or Hybrid · United States · Chicago, IL, USA | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/staff-software-engineer-user-targeting/11487191 | Braze | Staff Software Engineer, User Targeting | Hybrid · Chicago, IL, USA | 184000-348000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/senior-software-engineer-i-core-objects/11487177 | Braze | Senior Software Engineer I, Core Objects | Hybrid · Chicago, IL, USA | 129000-258000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/senior-software-engineer-i-data-content/11485763 | Tempus AI | Senior Software Engineer I, Data Content | Hybrid · Chicago, IL, USA | 110000-175000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/associate-software-engineer/11524850 | Highmark Health | Associate Software Engineer | Home, TN, USA · Alaska, USA · Vermont, USA · Montana, USA · Oklahoma, USA · Delaware, USA · Kentucky, USA · New Jersey, USA · New Mexico, USA · Connecticut, USA · North Dakota, USA · Rhode Island, USA · Massachusetts, USA · New Hampshire, USA · Village of Homewood, IL, USA | 68000-106000 | posted: 2026-10-06
+- [ ] https://www.builtinchicago.org/job/software-engineer-iii/11512899 | Bank of America | Software Engineer III | In-Office · Addison, IL, USA | 103000-180000 | posted: 2026-10-05
+- [ ] https://www.builtinchicago.org/job/cadre-data-software-engineer/11490847 | Federal Reserve System | CADRE Data/Software Engineer | In-Office · Chicago, IL, USA | 114000-182000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/software-engineer-ii-fullstack-growth-platform/11475527 | Scribd, Inc. | Software Engineer II (Fullstack), Growth Platform | In-Office · Chicago, IL, USA | 103000-184000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/software-engineer/11474281 | ComPsych | Software Engineer | In-Office · Chicago, IL, USA | 93000-110000 | posted: 2026-10-01
+- [ ] https://www.builtinchicago.org/job/engineering-manager-google-cloud-ai-ml/11475997 | PwC | Engineering Manager, Google Cloud AI/ML | Hybrid · Chicago, IL, USA · Rosemont, IL, USA | 99000-232000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/software-engineering-manager/11509490 | Beyond Finance | Software Engineering Manager | Hybrid · Chicago, IL, USA | 170000-210000 | posted: 2026-10-05
+- [ ] https://www.builtinchicago.org/job/senior-engineering-manager-google-cloud-ai-ml/11476004 | PwC | Senior Engineering Manager, Google Cloud AI/ML | Hybrid · Chicago, IL, USA · Rosemont, IL, USA | 124000-280000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/manager-ai-engineering/10971976 | Caterpillar | Manager; AI Engineering | Hybrid · Chicago, IL, USA | 148000-240000 | posted: 2026-10-01
+- [ ] https://www.builtinchicago.org/job/senior-engineering-manager/11488095 | GameChanger | Senior Engineering Manager | Remote · United States | 210000-230000 | posted: 2026-10-02
+- [ ] https://www.builtinchicago.org/job/senior-engineering-manager-basketball-coverage/11443132 | GameChanger | Senior Engineering Manager, Basketball Coverage | Remote · United States | 210000-230000 | posted: 2026-09-30
+- [ ] https://www.builtinchicago.org/job/identity-platform-engineering-manager/10755579 | Ford Motor Company | Identity Platform Engineering Manager | United States | 133000-251000
+- [ ] https://www.builtinchicago.org/job/engineering-manager-ai-cicd/11484489 | Chainguard | Engineering Manager, AI CICD | Remote · United States | 229000-258000 | posted: 2026-10-02
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8012584003 | Affirm | Manager, Software Engineering (Identity) | Remote UK | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7981723003 | Affirm | Senior Software Engineer, Fullstack (App Experience) | Remote US | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8008649003 | Affirm | Software Engineer, Early Career (NYC) | New York, New York, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003028003 | Affirm | Software Engineer II, Backend (Batch Developer Experience) | Remote US | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8010608003 | Affirm | Software Engineer II, Frontend (Marketing and Privacy) | Remote US | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8016866003 | Affirm | Software Engineer II, Fullstack (Ads Platform) | Remote US | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7995359003 | Affirm | Staff Software Engineer, Backend (Fraud Decisioning) | Remote US | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/senior-software-engineer-frontend-search/11606051 | Scribd, Inc. | Senior Software Engineer (Frontend), Search | In-Office · Chicago, IL, USA | 124000-226000 | posted: 2026-10-10
+- [ ] https://www.builtinchicago.org/job/senior-frontend-engineer-analytics-product-lead/11612591 | CMG (Capital Markets Gateway) | Senior Frontend Engineer (Analytics Product Lead) | Remote · United States | 180000-200000 | posted: 2026-10-12
+- [ ] https://www.builtinchicago.org/job/senior-frontend-engineer-i-ecommerce/11605106 | Prenuvo | Senior Frontend Engineer I - eCommerce | Remote · USA | 145000-170000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/fullstack-engineer-frontend-leaning-studio/11589985 | ElevenLabs | Fullstack Engineer (Frontend Leaning) - Studio | Remote · United States | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/sr-software-engineer-front-end/11563766 | Lively, Inc. | Sr. Software Engineer - Front-End | Remote · United States | 125000-200000 | posted: 2026-10-07
+- [ ] https://www.builtinchicago.org/job/senior-frontend-software-engineer/11559766 | Weave | Senior Frontend Software Engineer | Remote · US | posted: 2026-10-07
+- [ ] https://www.builtinchicago.org/job/staff-software-engineer-front-end/11549623 | Horizon3.ai | Staff Software Engineer, Front End | Remote · US | 200000-260000 | posted: 2026-10-07
+- [ ] https://www.builtinchicago.org/job/full-stack-engineer-4-sql-server-dba/11579104 | Capital One | Full-Stack Engineer 4 (SQL Server DBA) | Hybrid · Chicago, IL, USA · Riverwoods, IL, USA | 179000-205000 | posted: 2026-10-08
+- [ ] https://www.builtinchicago.org/job/full-stack-engineer-5-card-tech/11529316 | Capital One | Full-stack Engineer 5 - Card Tech | Hybrid · Chicago, IL, USA | 209000-262000 | posted: 2026-10-06
+- [ ] https://www.builtinchicago.org/job/full-stack-engineer-4-card-tech/11529269 | Capital One | Full-stack Engineer 4 - Card Tech | Hybrid · Chicago, IL, USA | 179000-225000 | posted: 2026-10-06
+- [ ] https://www.builtinchicago.org/job/mdm-software-engineer-iii/11608453 | Ahold Delhaize USA | MDM Software Engineer III | In-Office · Chicago, IL, USA | 125000-188000 | posted: 2026-10-10
+- [ ] https://www.builtinchicago.org/job/software-engineer-ii-data-ml-platform/11605208 | Zoro | Software Engineer II, Data & ML Platform | Hybrid · Chicago, IL, USA | 79000-132000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/staff-software-engineer/11600932 | ServiceNow | Staff Software Engineer | Hybrid · Chicago, IL, USA | 150000-262000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/software-engineer-iii/11593793 | INTOO | Software Engineer III | Remote or Hybrid · TX, United States · OH, United States · FL, United States · IN, United States · IL, United States · MD, United States · MI, United States · NE, United States · NY, United States · VA, United States · WI, United States · NJ, United States · MA, United States · NC, United States | 100000-125000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/software-engineer-lead-etl-regulatory-risk-amp-compliance/9278213 | PNC Bank | Software Engineer Lead (ETL/Regulatory Risk & Compliance) | Remote or Hybrid · USA | 86000-173000 | posted: 2026-10-08
+- [ ] https://www.builtinchicago.org/job/sr-backend-software-engineer-video-engineering/11428297 | Philo | Sr. Backend Software Engineer (Video Engineering) | Remote or Hybrid · USA | 165000-250000 | posted: 2026-09-29
+- [ ] https://www.builtinchicago.org/job/senior-software-engineer/8570204 | Circle | Senior Software Engineer | Chicago, IL, USA | 153000-205000 | posted: 2026-10-11
+- [ ] https://www.builtinchicago.org/job/sr-software-engineer-ii-fcm/11597146 | NinjaTrader | Sr. Software Engineer II, FCM | Remote or Hybrid · Chicago, IL, USA | 140000-190000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/staff-software-engineer/8570216 | Circle | Staff Software Engineer | Chicago, IL, USA | 195000-258000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/sr-software-engineer-ii-tech-lead-data-products/11563455 | Zoro | Sr. Software Engineer II - Tech Lead - Data Products | Hybrid · Chicago, IL, USA | 116000-193000 | posted: 2026-10-07
+- [ ] https://www.builtinchicago.org/job/software-developer/11600732 | CHAMPRO | Software Developer | Hybrid · Bannockburn, IL, USA | 105000-115000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/software-engineer-research-platform/11584620 | Optiver | Software Engineer - Research Platform | In-Office · Chicago, IL, USA | 200000 | posted: 2026-10-08
+- [ ] https://www.builtinchicago.org/job/associate-software-engineer-gradient-specialist/11583722 | 66degrees | Associate Software Engineer, Gradient Specialist | In-Office · Chicago, IL, USA | 70000-75000 | posted: 2026-10-08
+- [ ] https://www.builtinchicago.org/job/software-engineer/11581110 | Clayco | Software Engineer | In-Office · Chicago, IL, USA | 130000-160000 | posted: 2026-10-08
+- [ ] https://www.builtinchicago.org/job/sr-software-engineer-infrastructure-remote/11612095 | CrowdStrike | Sr. Software Engineer, Infrastructure (Remote) | Remote or Hybrid · USA | 140000-215000 | posted: 2026-10-12
+- [ ] https://www.builtinchicago.org/job/principal-software-engineer-segment-qe-architect/11564009 | Humana | Principal, Software Engineer - Segment QE Architect | Kentucky, USA · New Jersey, USA · Connecticut, USA · Massachusetts, USA · Village of Homewood, IL, USA | 157000-215000 | posted: 2026-10-08
+- [ ] https://www.builtinchicago.org/job/principal-software-engineer-enterprise-automation-frameworks-support/11564010 | Humana | Principal, Software Engineer - Enterprise Automation Frameworks & Support​ | Kentucky, USA · New Jersey, USA · Connecticut, USA · Massachusetts, USA · Village of Homewood, IL, USA | 157000-215000 | posted: 2026-10-08
+- [ ] https://www.builtinchicago.org/job/software-engineer/11561111 | Mesirow | Software Engineer | In-Office · Chicago, IL, USA | 110000-150000 | posted: 2026-10-07
+- [ ] https://www.builtinchicago.org/job/manager-data-platform-engineering/11618861 | Strata Decision Technology | Manager, Data Platform Engineering | Hybrid · Chicago, IL, USA | 155000-175000 | posted: 2026-10-12
+- [ ] https://www.builtinchicago.org/job/software-engineering-manager/11587616 | Wells Fargo | Software Engineering Manager | Hybrid · Chicago, IL, USA | 119000-224000 | posted: 2026-10-09
+- [ ] https://www.builtinchicago.org/job/senior-manager-software-engineering/10676756 | Morningstar | Senior Manager of Software Engineering | Hybrid · Chicago, IL, USA | 148000-226000 | posted: 2026-10-06
+- [ ] https://www.builtinchicago.org/job/engineering-manager-infrastructure-and-agentic-platform/11555388 | DeepScribe | Engineering Manager, Infrastructure and Agentic Platform | Remote · United States | 180000-240000 | posted: 2026-10-07
+- [ ] https://www.builtinchicago.org/job/principal-front-end-developer/9725902 | iHealth and Wellness Foundation, Inc. | Principal Front End Developer | Remote · United States
+
 ## Processed
+- [x] #141 | https://www.builtinchicago.org/job/staff-software-engineer-frontend/11496943 | Hercules | Staff Software Engineer, Frontend | applied by user (triage 4.1/5, no full evaluation; DoD check pending)
+- [x] #140 | https://www.builtinchicago.org/job/sr-software-engineer-account-management/11490296 | Zoro | Sr. Software Engineer, Account Management | applied by user (triage 4.2/5, no full evaluation)
+- [x] #139 | https://www.builtinchicago.org/job/software-engineer-front-end-europe/11440908 | Eloquent AI | Software Engineer, Front-End, Europe | applied by user (triage 4.4/5, no full evaluation)
+- [x] #138 | https://www.builtinchicago.org/job/senior-full-stack-engineer/11512167 | BesTech Consulting | Senior Full-Stack Engineer | applied by user (triage 4.9/5, no full evaluation)
+- [x] #137 | https://www.builtinchicago.org/job/senior-full-stack-engineer-basketball/11490775 | GameChanger | Senior Full Stack Engineer, Basketball | applied by user (triage 4.9/5, no full evaluation)
+- [x] #136 | https://www.builtinchicago.org/job/senior-software-engineer-frontend/11522829 | Happy Money | Senior Software Engineer (Frontend) | applied by user (triage 4.9/5, no full evaluation)
+- [x] #133 | https://job-boards.greenhouse.io/affirm/jobs/7819654003 | Affirm | Software Engineer II, Fullstack (Card Acquisition) | 3.6/5 | PDF ❌
+- [x] #-- | https://www.builtinchicago.org/job/software-engineer-senior-staff-senior-staff-opportunities/11473573 | Grainger | skipped (deal-breaker: defense/DoD client list, see #121)
+
+- [x] #132 | https://startup.jobs/senior-fullstack-software-engineer-taekus-8127748 | Taekus | Senior Fullstack Software Engineer | 3.4/5 | PDF ✅
+- [x] #131 | https://www.builtinchicago.org/job/senior-manager-software-engineering-toast-iq/11430539 | Toast | Senior Manager, Software Engineering - Toast IQ | 1.6/5 | PDF ❌
+- [x] #130 | https://www.builtinchicago.org/job/pim-platform-engineering-manager-software-engineering/11410454 | Caterpillar | PIM Platform Engineering Manager - Software Engineering | 1.7/5 | PDF ❌
+- [x] #129 | https://www.builtinchicago.org/job/software-engineer/11420869 | Kobie Marketing | Software Engineer | 3.1/5 | PDF ✅
+- [x] #128 | https://www.builtinchicago.org/job/software-engineer/11142200 | Humana | Software Engineer | 1.5/5 | PDF ❌
+- [x] #127 | https://www.builtinchicago.org/job/software-engineer-1-ai-ml-engineer-generative-ai/11093371 | US Bank | Software engineer 1 – AI/ML Engineer (Generative AI) | 1.4/5 | PDF ❌
+- [x] #126 | https://www.builtinchicago.org/job/software-engineer/11426622 | Cerity Partners | Software Engineer | 1.7/5 | PDF ❌
+- [x] #125 | https://www.builtinchicago.org/job/software-developer/11429112 | Husch Blackwell | Software Developer | 1.7/5 | PDF ❌
+- [x] #124 | https://www.builtinchicago.org/job/software-engineer-iii-intelliscript-remote/11430141 | Milliman | Software Engineer III - IntelliScript (Remote) | 3.2/5 | PDF ✅
+- [x] #123 | https://www.builtinchicago.org/job/advanced-software-engineer/11433376 | Wintrust Financial Corporation | Advanced Software Engineer | 1.4/5 | PDF ❌
+- [x] #122 | https://www.builtinchicago.org/job/principal-software-engineer-security-platforms/11399898 | JPMorganChase | Principal Software Engineer - Security Platforms | 2.0/5 | PDF ❌
+- [x] #121 | https://www.builtinchicago.org/job/senior-software-engineer/11409289 | Grainger | Senior Software Engineer | 1.0/5 | PDF ❌
+- [x] #120 | https://www.builtinchicago.org/job/lead-software-engineer-security-platforms/11422243 | JPMorganChase | Lead Software Engineer - Security Platforms | 2.2/5 | PDF ❌
+- [x] #119 | https://www.builtinchicago.org/job/software-engineer-3/10487945 | MongoDB | Software Engineer 3 | 2.4/5 | PDF ❌
+- [x] #118 | https://www.builtinchicago.org/job/software-engineer-ii/11422358 | Toast | Software Engineer II | 3.8/5 | PDF ✅
+- [x] #117 | https://www.builtinchicago.org/job/software-engineer-iii/11432503 | Garner Health | Software Engineer III | 3.6/5 | PDF ✅
+- [x] #116 | https://www.builtinchicago.org/job/senior-full-stack-engineer/11431690 | Savas Labs | Senior Full Stack Engineer | 3.1/5 | PDF ✅
+- [x] #115 | https://www.builtinchicago.org/job/senior-full-stack-software-engineer/11425657 | Vizient | Senior Full-Stack Software Engineer | 4.1/5 | PDF ✅
+- [x] #114 | https://www.builtinchicago.org/job/full-stack-engineer-5-senior-manager-ic-go-react-aws/11424508 | Capital One | Full-stack Engineer 5 (Senior Manager, IC - Go, React, AWS) | 4.0/5 | PDF ✅
+- [x] #113 | https://www.builtinchicago.org/job/staff-full-stack-engineer-global-payment-network/11424506 | Capital One | Staff Full-stack Engineer - Global Payment Network | 2.2/5 | PDF ❌
+- [x] #110 | https://job-boards.greenhouse.io/attentive/jobs/4415182009 | Attentive | Senior Director, Product Management (AI/ML) | 1.0/5 | PDF ❌
+- [x] #111 | https://job-boards.greenhouse.io/affirm/jobs/7999870003 | Affirm | Manager, Software Engineering (Marketplace Performance) | 3.0/5 | PDF ❌
+- [x] #112 | https://www.builtinchicago.org/job/full-stack-engineer-4-manager-ic/11424557 | Capital One | Full-stack Engineer 4 (Manager, IC) | 4.2/5 | PDF ✅
 
 - [x] #090 | https://job-boards.greenhouse.io/affirm/jobs/7993030003 | Affirm | Staff Software Engineer, Backend (Trust and Safety) | 2.4/5 | PDF ❌
 - [x] #091 | https://www.builtinchicago.org/job/senior-staff-front-end-engineer/11378023 | Clear Street | Senior / Staff Front End Engineer | 4.1/5 | PDF ✅

@@ -1,0 +1,2 @@
+num	date	company	role	score	status	pdf	report	notes
+121	2026-09-30	Grainger	Senior Software Engineer	1.0/5	SKIP	❌	[121](reports/121-grainger-2026-09-30.md)	Deal-breaker: military client list (Air Force/Army/Navy/Marines via GSA), same basis as #104/#105. On-merits ~4.1 (strong React/Java/Chicago-hybrid match) but profile hard-excludes this company. Corrected from an erroneous 4.1/Apply written by a prior automated pass that missed this company's documented deal-breaker.
